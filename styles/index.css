@@ -1,0 +1,38 @@
+html {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+}
+
+body {
+    margin: 0 auto;
+    background-color: grey;
+}
+
+h1, h2 {
+    font-weight: 300;
+    color: white;
+}
+
+#location {
+    outline: 2px solid red;
+    padding: 2em;
+    margin: 1em;
+}
+
+#temp {
+    outline: 2px solid white;
+    padding: 2em;
+    margin: 1em;
+}
+
+#minutely {
+    outline: 2px solid magenta;
+    padding: 2em;
+    margin: 1em;
+}
+
+div {
+    outline: 2px solid yellow;
+    margin: 1em;
+    padding: 2em;
+}
